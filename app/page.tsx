@@ -126,7 +126,7 @@ const CrudComponent: React.FC = () => {
           type="text"
           value={inputValue}
           onChange={handleInputChange}
-          placeholder="Enter item names"
+          placeholder="Enter item name"
           className="p-2 border border-gray-300 rounded mr-2 color-primary"
         />
         <input
